@@ -25,7 +25,7 @@ Membangun model machine learning untuk mendeteksi pelanggan yang berisiko churn,
 
 ## Demo hasil
 
-![Distribusi probabilitas dan confusion matrix](prob_dist_cm_tradeoff.png)
+![Distribusi probabilitas dan confusion matrix](precision_recall_tradeoff.png)
 
 *Kiri: distribusi probabilitas prediksi model. Kanan: confusion matrix di threshold 0.14.*
 
